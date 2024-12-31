@@ -23,10 +23,14 @@ const AboutUs = () => {
         sharing creativity and thoughts with the world. Our mission is to create a
         platform where writers can express themselves through shayari, quotes, and
         daily reflections.
-      </p>
-      <p>
-        Join us on this journey of inspiration and storytelling, and become a part of
-        our vibrant community.
+        Welcome to our website! We are a team of passionate individuals dedicated to
+        sharing creativity and thoughts with the world. Our mission is to create a
+        platform where writers can express themselves through shayari, quotes, and
+        daily reflections.
+        Welcome to our website! We are a team of passionate individuals dedicated to
+        sharing creativity and thoughts with the world. Our mission is to create a
+        platform where writers can express themselves through shayari, quotes, and
+        daily reflections.
       </p>
 
       <div style={{ marginTop: '20px' }}>
